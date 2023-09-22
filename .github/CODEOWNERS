@@ -1,0 +1,5 @@
+* @kkkaoru
+
+# Exclude for renovate
+package.json
+pnpm-lock.yaml
